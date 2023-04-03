@@ -1,5 +1,5 @@
-# CAST
-Code and dataset of our paper "[Context-Aware Seq2seq Translation Model for Sequential Recommendation]" submitted to Information Sciences.
+# CMASRec
+Code and dataset of our paper "[]" submitted to Information Sciences.
 
 ## 1. Requirements
 * python 3.6.2
