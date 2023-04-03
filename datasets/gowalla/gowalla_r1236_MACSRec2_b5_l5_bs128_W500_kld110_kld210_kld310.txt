@@ -1,0 +1,2 @@
+INFO:root:Namespace(L=5, T=1, Window=500, batch_size=128, d=50, dataset='gowalla', device='0', drop=0.2, kld1=10, kld2=10, kld3=10, l2=1e-06, learning_rate=0.001, n_iter=50, seed=1236, use_cuda=True)
+INFO:root:Namespace(d=50, drop=0.2)
